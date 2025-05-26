@@ -1,0 +1,132 @@
+[
+  {
+    "id": "job_001",
+    "title": "Senior Frontend Developer",
+    "company": "Web Weavers Inc.",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "salary": "$130k - $160k",
+    "category": "Information Technology",
+    "description": "Join our innovative team to build cutting-edge user interfaces for our flagship products. Strong experience with React, TypeScript, and modern CSS frameworks is required.",
+    "posted": "3 days ago",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Redux",
+      "Next.js",
+      "GraphQL",
+      "Jest"
+    ],
+    "logo": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.8,
+    "applicants": 35
+  },
+  {
+    "id": "job_002",
+    "title": "Cloud Solutions Architect",
+    "company": "SkyHigh Cloud Services",
+    "location": "Remote",
+    "type": "Full-time",
+    "salary": "$150k - $180k",
+    "category": "Information Technology",
+    "description": "Design and implement scalable, secure, and robust cloud infrastructure on AWS and Azure. Certifications and proven experience are essential.",
+    "posted": "1 week ago",
+    "skills": [
+      "AWS",
+      "Azure",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "Python"
+    ],
+    "logo": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.9,
+    "applicants": 28
+  },
+  {
+    "id": "job_003",
+    "title": "Digital Marketing Manager",
+    "company": "GrowthPro Agency",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "salary": "$100k - $120k",
+    "category": "Sales & Marketing",
+    "description": "Lead our digital marketing strategy, manage campaigns across SEO, SEM, social media, and email marketing. Analyze performance and optimize for ROI.",
+    "posted": "5 days ago",
+    "skills": [
+      "SEO",
+      "SEM",
+      "Google Analytics",
+      "Social Media Marketing",
+      "Content Strategy"
+    ],
+    "logo": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?q=80&w=200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.7,
+    "applicants": 42
+  },
+  {
+    "id": "job_004",
+    "title": "UX/UI Designer",
+    "company": "InnovateX Solutions",
+    "location": "Austin, TX",
+    "type": "Contract",
+    "salary": "$80/hr - $100/hr",
+    "category": "Design",
+    "description": "Create intuitive and visually appealing user interfaces and experiences for web and mobile applications. Proficiency in Figma, Sketch, and Adobe Creative Suite.",
+    "posted": "2 days ago",
+    "skills": [
+      "Figma",
+      "Sketch",
+      "User Research",
+      "Prototyping",
+      "Wireframing",
+      "UI Design"
+    ],
+    "logo": "https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.6,
+    "applicants": 19
+  },
+  {
+    "id": "job_005",
+    "title": "Senior Backend Engineer (Python/Django)",
+    "company": "DataFlow Systems",
+    "location": "Remote",
+    "type": "Full-time",
+    "salary": "$140k - $170k",
+    "category": "Information Technology",
+    "description": "Develop and maintain robust backend services and APIs using Python, Django, and PostgreSQL. Experience with microservices and message queues is a plus.",
+    "posted": "10 days ago",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "REST APIs",
+      "Docker",
+      "Celery"
+    ],
+    "logo": "https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.9,
+    "applicants": 22
+  },
+  {
+    "id": "job_006",
+    "title": "Product Owner",
+    "company": "Agile Sprint Corp",
+    "location": "London",
+    "type": "Full-time",
+    "salary": "£70k - £90k",
+    "category": "Product",
+    "description": "Define product vision, manage the product backlog, and collaborate with development teams to deliver high-value features. CSPO or similar certification preferred.",
+    "posted": "4 days ago",
+    "skills": [
+      "Agile",
+      "Scrum",
+      "JIRA",
+      "Product Backlog Management",
+      "Stakeholder Management"
+    ],
+    "logo": "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?q=80&w=200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.7,
+    "applicants": 30
+  }
+]
